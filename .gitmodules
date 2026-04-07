@@ -1,20 +1,18 @@
 [submodule "sourcedata/templateflow"]
-	path = sourcedata/templateflow
-	url = /lustre03/project/rrg-pbellec/ria-beluga/alias/templateflow
-	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
-	datalad-url = "ria+file:///lustre03/project/rrg-pbellec/ria-beluga#~templateflow"
+        path = sourcedata/templateflow
+        url = https://github.com/templateflow/templateflow
+        datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
 [submodule "containers"]
-	path = containers
-	url = /lustre03/project/rrg-pbellec/ria-beluga/alias/repronim/containers
-	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
-	datalad-url = "ria+file:///lustre03/project/rrg-pbellec/ria-beluga#~repronim/containers"
+        path = containers
+        url = https://github.com/ReproNim/containers
+        datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
 [submodule "sourcedata/smriprep"]
-	path = sourcedata/smriprep
-	url = /lustre03/project/rrg-pbellec/ria-beluga/alias/cneuromod.anat.smriprep
-	datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
-	datalad-url = "ria+file:///lustre03/project/rrg-pbellec/ria-beluga#~cneuromod.anat.smriprep"
+        path = sourcedata/smriprep
+        url = git@github.com:courtois-neuromod/anat.smriprep
+        datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
+        datalad-url = https://github.com/courtois-neuromod/anat.smriprep
 [submodule "sourcedata/cneuromod.petit-prince"]
-	path = sourcedata/cneuromod.petit-prince
-	url = /lustre03/project/rrg-pbellec/ria-beluga/alias/cneuromod.petit-prince.raw
-	datalad-id = d060b13d-7029-4503-840a-4095a5efa1e0
-	datalad-url = "ria+file:///lustre03/project/rrg-pbellec/ria-beluga#~cneuromod.petit-prince.raw"
+        path = sourcedata/cneuromod.petit-prince
+        url = git@github.com:courtois-neuromod/petit-prince
+        datalad-id = d060b13d-7029-4503-840a-4095a5efa1e0
+        datalad-url = https://github.com/courtois-neuromod/petit-prince
